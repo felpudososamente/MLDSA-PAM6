@@ -4,7 +4,7 @@ Juan Felipe Reyes Botero
 El siguiente proyecto consiste en un modelo de redes neuronales convolucionales con la finalidad de final de detectar si una imagen presentada consiste en un perro o un gato.
 Principalmente se trabajará con la  librería de imágenes del dataset Oxford‑IIIT Pet Dataset : https://www.robots.ox.ac.uk/~vgg/data/pets/.
 
-![gato](https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg" width="250">
 
 
 ## Metodología
