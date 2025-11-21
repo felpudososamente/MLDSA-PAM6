@@ -29,6 +29,14 @@ data/
 
 print("Dataset descargado y descomprimido.")
  ```
+## Cronograma
+| Etapa                                        | Duración Estimada | Fechas                              |
+|----------------------------------------------|-------------------|-------------------------------------|
+| Entendimiento del negocio y carga de datos   | 1 semana          | 21 nov 2025 al 27 nov 2025          |
+| Preprocesamiento y análisis exploratorio      | 1 semana          | 28 nov 2025 al 4 dic 2025           |
+| Modelamiento y extracción de características  | 1 semana          | 5 dic 2025 al 11 dic 2025           |
+| Despliegue                                   | 2 días            | 12 dic 2025 al 13 dic 2025          |
+| Evaluación y entrega final                    | 2 días            | 12 dic 2025 al 13 dic 2025          |
 
 ## Equipo del Proyecto.
 Juan Felipe Reyes Botero
