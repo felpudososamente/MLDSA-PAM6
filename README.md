@@ -95,7 +95,6 @@ Seaborn: 0.13.2
 Matplotlib: 3.10.8
 Pandas: 2.3.3
 Pillow: 12.0.0
-
 ```
 ## Análisis Exploratorio
 Razas Etiquetadas en el Dataset
@@ -157,7 +156,8 @@ plt.tight_layout()
 plt.show()
 
 ```
-IMAGEN
+<img width="1189" height="590" alt="e245190e-253a-436c-a65a-4cc2b16517bf" src="https://github.com/user-attachments/assets/5d423fef-f2df-4289-9988-05fdf7e133a3" />
+
 Promedio de Tamaño por imagen
 ```
 widths = []
@@ -196,6 +196,7 @@ plt.axis("off")
 plt.title(img_path.name)
 plt.show()
 ```
+<img width="251" height="350" alt="9d655419-03a8-459b-9f5c-18d803e23353" src="https://github.com/user-attachments/assets/49d53787-39f4-4bf1-bd8f-d72d4cb2bd8c" />
 
 ## Preprocesamiento
 Particion de la data en entrenamiento y evaluación
